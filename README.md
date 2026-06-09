@@ -16,16 +16,16 @@ My system focuses on student reviews of college professors. Official college web
 
 | # | Source |     Type         | URL or file path |
 |---|--------|------------------|-----------------|
-| 1 | Local Text File.  | documents/robert_kueper_reviews.txt
-| 2 |  Local Text File   | documents/guozhen_an_reviews.txt
-| 3 | Local Text File    |documents/joann_sun_reviews.txt
-| 4 |  Local Text File.   |documents/craig_weber_reviews.txt
-| 5 |  Local Text File.   |documents/ali_ragoub_reviews.txt
-| 6 |  Local Text File.   |documents/emily_epple_reviews.txt
-| 7 |   Local Text File.   |documents/danny_mangra_reviews.txt
-| 8 |  Local Text File.   |documents/steven_trowbridge_reviews.txt
-| 9 |   Local Text File.   |documents/huixin_wu_reviews.txt
-| 10 | Local Text File.   |documents/belle_birchfield_reviews.txt
+ 1 | Local Text File.  | documents/robert_kueper_reviews.txt
+2 |  Local Text File   | documents/guozhen_an_reviews.txt
+3 | Local Text File    |documents/joann_sun_reviews.txt
+4 |  Local Text File.   |documents/craig_weber_reviews.txt
+5 |  Local Text File.   |documents/ali_ragoub_reviews.txt
+6 |  Local Text File.   |documents/emily_epple_reviews.txt
+7 |   Local Text File.   |documents/danny_mangra_reviews.txt
+8 |  Local Text File.   |documents/steven_trowbridge_reviews.txt
+9 |   Local Text File.   |documents/huixin_wu_reviews.txt
+10 | Local Text File.   |documents/belle_birchfield_reviews.txt
 
 ---
 
@@ -131,11 +131,11 @@ Retrieved source documents are attached programmatically to every response. The 
 Evaluation Report
 | # | Question                                                 | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------------------------------------------------------|-----------------|------------------------------|-------------------|-------------------|
-1	Which professor is best for beginners?	                   | Robert Kueper	  |Returned Robert Kueper as strongest match but also included Steven Trowbridge |	Relevant |	Partially Accurate
-2	Which professor is the most difficult?	                    |Guozhen An	  |Correctly identified Guozhen An based on difficult assignments and exams |	Relevant	| Accurate
-3	Which professor requires the most independent learning?	|Joann Sun	   |    Correctly identified Joann Sun because reviews explicitly mentioned independent learning |	Relevant |	Accurate
-4	Which professor gives the most useful feedback?	          |Robert Kueper	  |Correctly identified Robert Kueper based on helpful assignment feedback |	Relevant |	Accurate
-5	Which professor is most recommended overall?	               |mily Epple	 |  Correctly identified Emily Epple because reviews strongly recommended her to other students |	Relevant |	Accurate
+1 |	Which professor is best for beginners?	                   | Robert Kueper	  |Returned Robert Kueper as strongest match but also included Steven Trowbridge |	Relevant |	Partially Accurate
+2 |	Which professor is the most difficult?	                    |Guozhen An	  |Correctly identified Guozhen An based on difficult assignments and exams |	Relevant	| Accurate
+3 |	Which professor requires the most independent learning?	|Joann Sun	   |    Correctly identified Joann Sun because reviews explicitly mentioned independent learning |	Relevant |	Accurate
+4 |	Which professor gives the most useful feedback?	          |Robert Kueper	  |Correctly identified Robert Kueper based on helpful assignment feedback |	Relevant |	Accurate
+5 |	Which professor is most recommended overall?	               |mily Epple	 |  Correctly identified Emily Epple because reviews strongly recommended her to other students |	Relevant |	Accurate
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
