@@ -88,3 +88,18 @@ For embeddings and retrieval, I will provide my retrieval approach and ask ChatG
 For generation, I will ask ChatGPT to help create prompts that ensure answers are grounded only in retrieved reviews and include source attribution.
 
 I will review, test, and modify all generated code before using it.
+
+
+## Architecture
+
+```mermaid
+flowchart TD
+    A[Professor Review Text Files] --> B[Document Ingestion]
+    B --> C[Cleaning and Preprocessing]
+    C --> D[Chunking by Individual Review]
+    D --> E[Embedding Model: all-MiniLM-L6-v2]
+    E --> F[Vector Store: ChromaDB]
+    G[User Question] --> H[Semantic Retrieval: Top 4-5 Chunks]
+    F --> H
+    H --> I[LLM: Groq Llama 3.3 70B Versatile]
+    I --> J[Grounded Answer with Source Citations]
