@@ -16,16 +16,16 @@ My system focuses on student reviews of college professors. Official college web
 
 | # | Source |     Type         | URL or file path |
 |---|--------|------------------|-----------------|
-| 1 | | | |. Local Text File.  | documents/robert_kueper_reviews.txt
-| 2 | | | |. Local Text File   | documents/guozhen_an_reviews.txt
-| 3 | | | |. Local Text File    |documents/joann_sun_reviews.txt
-| 4 | | | |. Local Text File.   |documents/craig_weber_reviews.txt
-| 5 | | | |  Local Text File.   |documents/ali_ragoub_reviews.txt
-| 6 | | | |  Local Text File.   |documents/emily_epple_reviews.txt
-| 7 | | | |  Local Text File.   |documents/danny_mangra_reviews.txt
-| 8 | | | |. Local Text File.   |documents/steven_trowbridge_reviews.txt
-| 9 | | | |  Local Text File.   |documents/huixin_wu_reviews.txt
-| 10 | | | | Local Text File.   |documents/belle_birchfield_reviews.txt
+| 1 | Local Text File.  | documents/robert_kueper_reviews.txt
+| 2 |  Local Text File   | documents/guozhen_an_reviews.txt
+| 3 | Local Text File    |documents/joann_sun_reviews.txt
+| 4 |  Local Text File.   |documents/craig_weber_reviews.txt
+| 5 |  Local Text File.   |documents/ali_ragoub_reviews.txt
+| 6 |  Local Text File.   |documents/emily_epple_reviews.txt
+| 7 |   Local Text File.   |documents/danny_mangra_reviews.txt
+| 8 |  Local Text File.   |documents/steven_trowbridge_reviews.txt
+| 9 |   Local Text File.   |documents/huixin_wu_reviews.txt
+| 10 | Local Text File.   |documents/belle_birchfield_reviews.txt
 
 ---
 
