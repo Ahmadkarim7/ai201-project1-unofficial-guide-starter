@@ -1,0 +1,49 @@
+Professor: Guozhen An
+Department: Computer Science
+Overall Rating: 2.2/5
+Difficulty: 4.1/5
+
+Review 1:
+The course was extremely challenging and required a lot of independent learning.
+
+Review 2:
+Lecture explanations were often difficult to follow.
+
+Review 3:
+Assignments were significantly harder than examples shown in class.
+
+Review 4:
+The professor knows the material well but struggles to communicate concepts clearly.
+
+Review 5:
+Students should expect to spend many hours outside class learning on their own.
+
+Review 6:
+Project instructions could have been more detailed.
+
+Review 7:
+Exams were difficult and focused heavily on problem solving.
+
+Review 8:
+The pace of the course was faster than expected.
+
+Review 9:
+I often relied on online resources to understand the material.
+
+Review 10:
+The grading felt strict compared to other professors.
+
+Review 11:
+Office hours were helpful when available.
+
+Review 12:
+The workload was overwhelming at times.
+
+Review 13:
+Students with previous programming experience may do better in this class.
+
+Review 14:
+I learned valuable concepts but struggled with the teaching style.
+
+Review 15:
+The course can be rewarding, but it requires significant dedication and self-study.

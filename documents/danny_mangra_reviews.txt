@@ -1,0 +1,49 @@
+Professor: Danny Mangra
+Department: Computer Science
+Overall Rating: 3.5/5
+Difficulty: 2.7/5
+
+Review 1:
+Professor Mangra knows the subject well and provides useful examples during lectures.
+
+Review 2:
+The course material is practical and relevant to computer science students.
+
+Review 3:
+Assignments helped reinforce programming concepts.
+
+Review 4:
+The workload was reasonable throughout the semester.
+
+Review 5:
+Some lectures were engaging while others felt difficult to follow.
+
+Review 6:
+Instructions for projects could have been clearer.
+
+Review 7:
+The class was manageable but required consistent effort.
+
+Review 8:
+Professor Mangra was willing to answer questions when asked.
+
+Review 9:
+Some students may find the teaching style difficult to connect with.
+
+Review 10:
+The exams were fair but sometimes covered topics quickly discussed in class.
+
+Review 11:
+Communication outside class could be inconsistent.
+
+Review 12:
+I learned useful skills but expected more detailed explanations.
+
+Review 13:
+The course experience largely depends on how much effort the student puts in.
+
+Review 14:
+Some assignments felt repetitive.
+
+Review 15:
+Overall a decent professor with both strengths and weaknesses.

@@ -1,122 +1,90 @@
-# Project 1 Planning: The Unofficial Guide
+## Evaluation Plan
 
-> Write this document before you write any pipeline code.
-> Your spec and architecture diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Update the Retrieval Approach and Chunking Strategy sections if you change your approach during implementation.
-> Update this file before starting any stretch features.
+### Question 1
+Which professor is best for beginners?
 
----
+Expected Answer:
+Robert M. Kueper or Belle Birchfield
 
-## Domain
+### Question 2
+Which professor is the most difficult?
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Expected Answer:
+Joann Sun
 
----
+### Question 3
+Which professor requires the most independent learning?
 
-## Documents
+Expected Answer:
+Guozhen An or Joann Sun
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
+### Question 4
+Which professor gives the most useful feedback?
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+Expected Answer:
+Craig Weber
 
----
+### Question 5
+Which professor is most recommended overall?
+
+Expected Answer:
+Robert M. Kueper, Belle Birchfield, or Ali Ragoub
+
 
 ## Chunking Strategy
 
-<!-- How will you split documents into chunks?
-     State your chunk size (in tokens or characters), overlap size, and explain why those
-     numbers fit the structure of your documents.
-     A review-heavy corpus warrants different chunking than a long FAQ. -->
+My documents are short professor-review files. Each document contains one professor and 15 short reviews. Most reviews are 1–2 sentences long and each review usually focuses on one clear idea, such as teaching style, workload, exams, difficulty, feedback, or support.
 
-**Chunk size:**
+Because the reviews are already separated by “Review 1,” “Review 2,” etc., I will chunk by individual review instead of splitting every fixed number of characters. Each chunk will include the professor name, department, rating, difficulty, and one review. This makes each chunk small but still meaningful on its own.
 
-**Overlap:**
-
-**Reasoning:**
-
----
+I do not need a large overlap because each review is already self-contained. If needed, I may use a very small overlap by repeating professor metadata in every chunk so the system always knows which professor the review belongs to.
 
 ## Retrieval Approach
 
-<!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
-     How many chunks will you retrieve per query (top-k)?
-     If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
-     would you weigh in choosing a different embedding model — context length, multilingual
-     support, accuracy on domain-specific text, latency? -->
+I will use the all-MiniLM-L6-v2 embedding model from sentence-transformers because it runs locally, is free, and is good enough for a small professor-review dataset. I will store embeddings in ChromaDB.
 
-**Embedding model:**
+For each user question, I will retrieve the top 4 or 5 most relevant chunks. This should give the LLM enough context from multiple reviews without adding too much unrelated text.
 
-**Top-k:**
+If this were a production system, I would compare embedding models based on accuracy, speed, cost, context length, and whether they handle student-style informal language well.
 
-**Production tradeoff reflection:**
+## Domain
 
----
+My project focuses on student reviews of professors at Queensborough Community College. Students often want information about teaching style, workload, exam difficulty, grading policies, and classroom experience, but official college websites do not provide this information. This project makes student experiences searchable through a RAG system so students can make better decisions when selecting professors.
 
-## Evaluation Plan
+## Documents
 
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
+I collected 10 professor review documents:
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+- ali_ragoub_reviews.txt
+- belle_birchfield_reviews.txt
+- craig_weber_reviews.txt
+- danny_mangra_reviews.txt
+- emily_epple_reviews.txt
+- guozhen_an_reviews.txt
+- huixin_wu_reviews.txt
+- joann_sun_reviews.txt
+- robert_kueper_reviews.txt
+- steven_trowbridge_reviews.txt
 
----
+Each file contains approximately 15 student reviews gathered from professor-review sources. Together they cover different teaching styles, workloads, difficulty levels, grading approaches, and student experiences.
+
 
 ## Anticipated Challenges
 
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
+One challenge is that student reviews are subjective and sometimes contradictory. One student may describe a professor as easy while another describes the same professor as difficult.
 
-1.
+Another challenge is retrieval accuracy. Because reviews are short, the system may retrieve reviews that contain similar words but do not actually answer the user's question.
 
-2.
-
----
-
-## Architecture
-
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
-
----
+A third challenge is source attribution. Every generated answer must clearly identify which professor-review documents were used to produce the answer.
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
+I will use ChatGPT/Claud to help implement specific parts of the RAG pipeline.
 
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
+For document ingestion and chunking, I will provide my chunking strategy and ask ChatGPT to help create a script that loads review files and converts them into chunks.
 
-**Milestone 3 — Ingestion and chunking:**
+For embeddings and retrieval, I will provide my retrieval approach and ask ChatGPT to help implement all-MiniLM-L6-v2 embeddings and ChromaDB storage.
 
-**Milestone 4 — Embedding and retrieval:**
+For generation, I will ask ChatGPT to help create prompts that ensure answers are grounded only in retrieved reviews and include source attribution.
 
-**Milestone 5 — Generation and interface:**
+I will review, test, and modify all generated code before using it.
