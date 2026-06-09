@@ -3,900 +3,480 @@
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 0,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 1:\nProfessor Weber encourages creativity and allows students to explore their own ideas."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 1:\nProfessor Weber encourages creativity and allows students to explore their own ideas.\n\nReview 2:\nThe class atmosphere is relaxed and welcoming."
   },
   {
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 1,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 2:\nThe class atmosphere is relaxed and welcoming."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 3:\nProjects were interesting and relevant to the field of design.\n\nReview 4:\nFeedback was detailed and helped improve my work."
   },
   {
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 2,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 3:\nProjects were interesting and relevant to the field of design."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 5:\nThe workload is manageable for most students.\n\nReview 6:\nProfessor Weber is knowledgeable and passionate about design."
   },
   {
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 3,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 4:\nFeedback was detailed and helped improve my work."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 7:\nStudents are encouraged to participate and share ideas.\n\nReview 8:\nThe course helped me build confidence in my creative abilities."
   },
   {
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 4,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 5:\nThe workload is manageable for most students."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 9:\nAssignments were practical and engaging.\n\nReview 10:\nThe grading process was fair and transparent."
   },
   {
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 5,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 6:\nProfessor Weber is knowledgeable and passionate about design."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 11:\nSome project requirements could have been explained more clearly.\n\nReview 12:\nThe pace was comfortable throughout the semester."
   },
   {
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 6,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 7:\nStudents are encouraged to participate and share ideas."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 13:\nNot every lecture was equally engaging, but the overall experience was positive.\n\nReview 14:\nI would recommend this professor to students interested in design."
   },
   {
     "source": "craig_weber_reviews.txt",
     "professor": "Craig Weber",
     "chunk_index": 7,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 8:\nThe course helped me build confidence in my creative abilities."
-  },
-  {
-    "source": "craig_weber_reviews.txt",
-    "professor": "Craig Weber",
-    "chunk_index": 8,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 9:\nAssignments were practical and engaging."
-  },
-  {
-    "source": "craig_weber_reviews.txt",
-    "professor": "Craig Weber",
-    "chunk_index": 9,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 10:\nThe grading process was fair and transparent."
-  },
-  {
-    "source": "craig_weber_reviews.txt",
-    "professor": "Craig Weber",
-    "chunk_index": 10,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 11:\nSome project requirements could have been explained more clearly."
-  },
-  {
-    "source": "craig_weber_reviews.txt",
-    "professor": "Craig Weber",
-    "chunk_index": 11,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 12:\nThe pace was comfortable throughout the semester."
-  },
-  {
-    "source": "craig_weber_reviews.txt",
-    "professor": "Craig Weber",
-    "chunk_index": 12,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 13:\nNot every lecture was equally engaging, but the overall experience was positive."
-  },
-  {
-    "source": "craig_weber_reviews.txt",
-    "professor": "Craig Weber",
-    "chunk_index": 13,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 14:\nI would recommend this professor to students interested in design."
-  },
-  {
-    "source": "craig_weber_reviews.txt",
-    "professor": "Craig Weber",
-    "chunk_index": 14,
-    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\nReview 15:\nOverall a strong professor who creates a supportive learning environment."
+    "text": "Professor: Craig Weber\nSource: craig_weber_reviews.txt\n\nReview 15:\nOverall a strong professor who creates a supportive learning environment."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 0,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 1:\nProfessor Kueper explains engineering concepts in a way that is easy for beginners to understand."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 1:\nProfessor Kueper explains engineering concepts in a way that is easy for beginners to understand.\n\nReview 2:\nThe class is organized and expectations are clear from the first day."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 1,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 2:\nThe class is organized and expectations are clear from the first day."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 3:\nAssignments are straightforward and reinforce lecture material well.\n\nReview 4:\nOne of the most approachable professors in the department."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 2,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 3:\nAssignments are straightforward and reinforce lecture material well."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 5:\nHe is patient when answering questions and never makes students feel uncomfortable.\n\nReview 6:\nThe workload is very manageable compared to other engineering courses."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 3,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 4:\nOne of the most approachable professors in the department."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 7:\nLectures are engaging and easy to follow.\n\nReview 8:\nProfessor Kueper genuinely wants every student to succeed."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 4,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 5:\nHe is patient when answering questions and never makes students feel uncomfortable."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 9:\nThe exams were fair and closely matched the material covered in class.\n\nReview 10:\nExcellent professor for students new to engineering."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 5,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 6:\nThe workload is very manageable compared to other engineering courses."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 11:\nFeedback on assignments was helpful and encouraging.\n\nReview 12:\nOffice hours were useful and welcoming."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 6,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 7:\nLectures are engaging and easy to follow."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 13:\nSometimes the pace felt a little slow for students with prior experience.\n\nReview 14:\nThe course was enjoyable and stress free."
   },
   {
     "source": "robert_kueper_reviews.txt",
     "professor": "Robert Kueper",
     "chunk_index": 7,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 8:\nProfessor Kueper genuinely wants every student to succeed."
-  },
-  {
-    "source": "robert_kueper_reviews.txt",
-    "professor": "Robert Kueper",
-    "chunk_index": 8,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 9:\nThe exams were fair and closely matched the material covered in class."
-  },
-  {
-    "source": "robert_kueper_reviews.txt",
-    "professor": "Robert Kueper",
-    "chunk_index": 9,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 10:\nExcellent professor for students new to engineering."
-  },
-  {
-    "source": "robert_kueper_reviews.txt",
-    "professor": "Robert Kueper",
-    "chunk_index": 10,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 11:\nFeedback on assignments was helpful and encouraging."
-  },
-  {
-    "source": "robert_kueper_reviews.txt",
-    "professor": "Robert Kueper",
-    "chunk_index": 11,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 12:\nOffice hours were useful and welcoming."
-  },
-  {
-    "source": "robert_kueper_reviews.txt",
-    "professor": "Robert Kueper",
-    "chunk_index": 12,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 13:\nSometimes the pace felt a little slow for students with prior experience."
-  },
-  {
-    "source": "robert_kueper_reviews.txt",
-    "professor": "Robert Kueper",
-    "chunk_index": 13,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 14:\nThe course was enjoyable and stress free."
-  },
-  {
-    "source": "robert_kueper_reviews.txt",
-    "professor": "Robert Kueper",
-    "chunk_index": 14,
-    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\nReview 15:\nI would gladly take another course with Professor Kueper."
+    "text": "Professor: Robert Kueper\nSource: robert_kueper_reviews.txt\n\nReview 15:\nI would gladly take another course with Professor Kueper."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 0,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 1:\nThe course was extremely challenging and required a lot of independent learning."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 1:\nThe course was extremely challenging and required a lot of independent learning.\n\nReview 2:\nLecture explanations were often difficult to follow."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 1,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 2:\nLecture explanations were often difficult to follow."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 3:\nAssignments were significantly harder than examples shown in class.\n\nReview 4:\nThe professor knows the material well but struggles to communicate concepts clearly."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 2,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 3:\nAssignments were significantly harder than examples shown in class."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 5:\nStudents should expect to spend many hours outside class learning on their own.\n\nReview 6:\nProject instructions could have been more detailed."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 3,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 4:\nThe professor knows the material well but struggles to communicate concepts clearly."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 7:\nExams were difficult and focused heavily on problem solving.\n\nReview 8:\nThe pace of the course was faster than expected."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 4,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 5:\nStudents should expect to spend many hours outside class learning on their own."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 9:\nI often relied on online resources to understand the material.\n\nReview 10:\nThe grading felt strict compared to other professors."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 5,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 6:\nProject instructions could have been more detailed."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 11:\nOffice hours were helpful when available.\n\nReview 12:\nThe workload was overwhelming at times."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 6,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 7:\nExams were difficult and focused heavily on problem solving."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 13:\nStudents with previous programming experience may do better in this class.\n\nReview 14:\nI learned valuable concepts but struggled with the teaching style."
   },
   {
     "source": "guozhen_an_reviews.txt",
     "professor": "Guozhen An",
     "chunk_index": 7,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 8:\nThe pace of the course was faster than expected."
-  },
-  {
-    "source": "guozhen_an_reviews.txt",
-    "professor": "Guozhen An",
-    "chunk_index": 8,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 9:\nI often relied on online resources to understand the material."
-  },
-  {
-    "source": "guozhen_an_reviews.txt",
-    "professor": "Guozhen An",
-    "chunk_index": 9,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 10:\nThe grading felt strict compared to other professors."
-  },
-  {
-    "source": "guozhen_an_reviews.txt",
-    "professor": "Guozhen An",
-    "chunk_index": 10,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 11:\nOffice hours were helpful when available."
-  },
-  {
-    "source": "guozhen_an_reviews.txt",
-    "professor": "Guozhen An",
-    "chunk_index": 11,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 12:\nThe workload was overwhelming at times."
-  },
-  {
-    "source": "guozhen_an_reviews.txt",
-    "professor": "Guozhen An",
-    "chunk_index": 12,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 13:\nStudents with previous programming experience may do better in this class."
-  },
-  {
-    "source": "guozhen_an_reviews.txt",
-    "professor": "Guozhen An",
-    "chunk_index": 13,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 14:\nI learned valuable concepts but struggled with the teaching style."
-  },
-  {
-    "source": "guozhen_an_reviews.txt",
-    "professor": "Guozhen An",
-    "chunk_index": 14,
-    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\nReview 15:\nThe course can be rewarding, but it requires significant dedication and self-study."
+    "text": "Professor: Guozhen An\nSource: guozhen_an_reviews.txt\n\nReview 15:\nThe course can be rewarding, but it requires significant dedication and self-study."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 0,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 1:\nProfessor Trowbridge explains difficult engineering concepts clearly and gives examples that help students understand the material."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 1:\nProfessor Trowbridge explains difficult engineering concepts clearly and gives examples that help students understand the material.\n\nReview 2:\nThe workload is challenging but fair. If you stay on top of assignments, you can do well in the course."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 1,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 2:\nThe workload is challenging but fair. If you stay on top of assignments, you can do well in the course."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 3:\nHis lectures are organized and he expects students to come prepared to class.\n\nReview 4:\nOne of the most knowledgeable professors I have had. He clearly has industry experience and connects theory to real-world applications."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 2,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 3:\nHis lectures are organized and he expects students to come prepared to class."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 5:\nThe exams are difficult but reflect what is taught during lectures.\n\nReview 6:\nHe pushes students to think critically rather than memorize information."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 3,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 4:\nOne of the most knowledgeable professors I have had. He clearly has industry experience and connects theory to real-world applications."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 7:\nAttendance is important because lecture material often goes beyond the textbook.\n\nReview 8:\nI learned more in this class than in most of my other engineering courses."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 4,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 5:\nThe exams are difficult but reflect what is taught during lectures."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 9:\nProfessor Trowbridge is approachable during office hours and willing to help students who make an effort.\n\nReview 10:\nThe projects were time-consuming but helped reinforce the course concepts."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 5,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 6:\nHe pushes students to think critically rather than memorize information."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 11:\nExpect a fast-paced course. Staying behind even one week can make the class harder.\n\nReview 12:\nGrading was fair and expectations were clearly communicated throughout the semester."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 6,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 7:\nAttendance is important because lecture material often goes beyond the textbook."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 13:\nSome lectures moved too quickly, especially when covering advanced topics.\n\nReview 14:\nThe course requires significant work outside of class and may be difficult for students with weak math backgrounds."
   },
   {
     "source": "steven_trowbridge_reviews.txt",
     "professor": "Steven Trowbridge",
     "chunk_index": 7,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 8:\nI learned more in this class than in most of my other engineering courses."
-  },
-  {
-    "source": "steven_trowbridge_reviews.txt",
-    "professor": "Steven Trowbridge",
-    "chunk_index": 8,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 9:\nProfessor Trowbridge is approachable during office hours and willing to help students who make an effort."
-  },
-  {
-    "source": "steven_trowbridge_reviews.txt",
-    "professor": "Steven Trowbridge",
-    "chunk_index": 9,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 10:\nThe projects were time-consuming but helped reinforce the course concepts."
-  },
-  {
-    "source": "steven_trowbridge_reviews.txt",
-    "professor": "Steven Trowbridge",
-    "chunk_index": 10,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 11:\nExpect a fast-paced course. Staying behind even one week can make the class harder."
-  },
-  {
-    "source": "steven_trowbridge_reviews.txt",
-    "professor": "Steven Trowbridge",
-    "chunk_index": 11,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 12:\nGrading was fair and expectations were clearly communicated throughout the semester."
-  },
-  {
-    "source": "steven_trowbridge_reviews.txt",
-    "professor": "Steven Trowbridge",
-    "chunk_index": 12,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 13:\nSome lectures moved too quickly, especially when covering advanced topics."
-  },
-  {
-    "source": "steven_trowbridge_reviews.txt",
-    "professor": "Steven Trowbridge",
-    "chunk_index": 13,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 14:\nThe course requires significant work outside of class and may be difficult for students with weak math backgrounds."
-  },
-  {
-    "source": "steven_trowbridge_reviews.txt",
-    "professor": "Steven Trowbridge",
-    "chunk_index": 14,
-    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\nReview 15:\nOverall an excellent professor who challenges students while helping them build strong engineering skills."
+    "text": "Professor: Steven Trowbridge\nSource: steven_trowbridge_reviews.txt\n\nReview 15:\nOverall an excellent professor who challenges students while helping them build strong engineering skills."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 0,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 1:\nProfessor Birchfield creates a welcoming classroom environment and makes students feel comfortable asking questions."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 1:\nProfessor Birchfield creates a welcoming classroom environment and makes students feel comfortable asking questions.\n\nReview 2:\nThe course material is presented clearly and is easy to follow."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 1,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 2:\nThe course material is presented clearly and is easy to follow."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 3:\nAssignments are reasonable and directly related to lecture content.\n\nReview 4:\nOne of the most supportive professors at QCC."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 2,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 3:\nAssignments are reasonable and directly related to lecture content."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 5:\nShe explains concepts step by step and checks to make sure everyone understands.\n\nReview 6:\nGrading is fair and feedback is helpful."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 3,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 4:\nOne of the most supportive professors at QCC."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 7:\nThe class is well organized and expectations are clear from the beginning.\n\nReview 8:\nProfessor Birchfield genuinely wants students to succeed."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 4,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 5:\nShe explains concepts step by step and checks to make sure everyone understands."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 9:\nThe workload is manageable even for students taking multiple courses.\n\nReview 10:\nLectures are engaging and easy to understand."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 5,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 6:\nGrading is fair and feedback is helpful."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 11:\nQuestions are always welcomed and answered thoroughly.\n\nReview 12:\nA great professor for students who are new to the subject."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 6,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 7:\nThe class is well organized and expectations are clear from the beginning."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 13:\nThe projects were interesting and helped reinforce the material.\n\nReview 14:\nI would absolutely take another class with Professor Birchfield."
   },
   {
     "source": "belle_birchfield_reviews.txt",
     "professor": "Belle Birchfield",
     "chunk_index": 7,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 8:\nProfessor Birchfield genuinely wants students to succeed."
-  },
-  {
-    "source": "belle_birchfield_reviews.txt",
-    "professor": "Belle Birchfield",
-    "chunk_index": 8,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 9:\nThe workload is manageable even for students taking multiple courses."
-  },
-  {
-    "source": "belle_birchfield_reviews.txt",
-    "professor": "Belle Birchfield",
-    "chunk_index": 9,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 10:\nLectures are engaging and easy to understand."
-  },
-  {
-    "source": "belle_birchfield_reviews.txt",
-    "professor": "Belle Birchfield",
-    "chunk_index": 10,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 11:\nQuestions are always welcomed and answered thoroughly."
-  },
-  {
-    "source": "belle_birchfield_reviews.txt",
-    "professor": "Belle Birchfield",
-    "chunk_index": 11,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 12:\nA great professor for students who are new to the subject."
-  },
-  {
-    "source": "belle_birchfield_reviews.txt",
-    "professor": "Belle Birchfield",
-    "chunk_index": 12,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 13:\nThe projects were interesting and helped reinforce the material."
-  },
-  {
-    "source": "belle_birchfield_reviews.txt",
-    "professor": "Belle Birchfield",
-    "chunk_index": 13,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 14:\nI would absolutely take another class with Professor Birchfield."
-  },
-  {
-    "source": "belle_birchfield_reviews.txt",
-    "professor": "Belle Birchfield",
-    "chunk_index": 14,
-    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\nReview 15:\nThe class was slightly slower paced than expected, but overall it was an excellent learning experience."
+    "text": "Professor: Belle Birchfield\nSource: belle_birchfield_reviews.txt\n\nReview 15:\nThe class was slightly slower paced than expected, but overall it was an excellent learning experience."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 0,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 1:\nThe course was much harder than expected."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 1:\nThe course was much harder than expected.\n\nReview 2:\nLecture explanations were often confusing and difficult to follow."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 1,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 2:\nLecture explanations were often confusing and difficult to follow."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 3:\nAssignments required significant effort outside of class.\n\nReview 4:\nThe workload felt overwhelming at times."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 2,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 3:\nAssignments required significant effort outside of class."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 5:\nProject expectations were not always clear.\n\nReview 6:\nStudents often needed outside resources to understand the material."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 3,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 4:\nThe workload felt overwhelming at times."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 7:\nThe pace was extremely fast.\n\nReview 8:\nExams were difficult and heavily weighted."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 4,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 5:\nProject expectations were not always clear."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 9:\nGrading felt stricter than in similar courses.\n\nReview 10:\nCommunication with students could have been better."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 5,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 6:\nStudents often needed outside resources to understand the material."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 11:\nI struggled to understand key concepts from lectures alone.\n\nReview 12:\nThe class required a lot of independent learning."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 6,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 7:\nThe pace was extremely fast."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 13:\nThe professor clearly knows the material but teaching methods could improve.\n\nReview 14:\nMissing one class made it difficult to keep up with the course."
   },
   {
     "source": "joann_sun_reviews.txt",
     "professor": "Joann Sun",
     "chunk_index": 7,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 8:\nExams were difficult and heavily weighted."
-  },
-  {
-    "source": "joann_sun_reviews.txt",
-    "professor": "Joann Sun",
-    "chunk_index": 8,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 9:\nGrading felt stricter than in similar courses."
-  },
-  {
-    "source": "joann_sun_reviews.txt",
-    "professor": "Joann Sun",
-    "chunk_index": 9,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 10:\nCommunication with students could have been better."
-  },
-  {
-    "source": "joann_sun_reviews.txt",
-    "professor": "Joann Sun",
-    "chunk_index": 10,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 11:\nI struggled to understand key concepts from lectures alone."
-  },
-  {
-    "source": "joann_sun_reviews.txt",
-    "professor": "Joann Sun",
-    "chunk_index": 11,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 12:\nThe class required a lot of independent learning."
-  },
-  {
-    "source": "joann_sun_reviews.txt",
-    "professor": "Joann Sun",
-    "chunk_index": 12,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 13:\nThe professor clearly knows the material but teaching methods could improve."
-  },
-  {
-    "source": "joann_sun_reviews.txt",
-    "professor": "Joann Sun",
-    "chunk_index": 13,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 14:\nMissing one class made it difficult to keep up with the course."
-  },
-  {
-    "source": "joann_sun_reviews.txt",
-    "professor": "Joann Sun",
-    "chunk_index": 14,
-    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\nReview 15:\nStudents should be prepared for a challenging and demanding semester."
+    "text": "Professor: Joann Sun\nSource: joann_sun_reviews.txt\n\nReview 15:\nStudents should be prepared for a challenging and demanding semester."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 0,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 1:\nProfessor Mangra knows the subject well and provides useful examples during lectures."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 1:\nProfessor Mangra knows the subject well and provides useful examples during lectures.\n\nReview 2:\nThe course material is practical and relevant to computer science students."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 1,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 2:\nThe course material is practical and relevant to computer science students."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 3:\nAssignments helped reinforce programming concepts.\n\nReview 4:\nThe workload was reasonable throughout the semester."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 2,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 3:\nAssignments helped reinforce programming concepts."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 5:\nSome lectures were engaging while others felt difficult to follow.\n\nReview 6:\nInstructions for projects could have been clearer."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 3,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 4:\nThe workload was reasonable throughout the semester."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 7:\nThe class was manageable but required consistent effort.\n\nReview 8:\nProfessor Mangra was willing to answer questions when asked."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 4,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 5:\nSome lectures were engaging while others felt difficult to follow."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 9:\nSome students may find the teaching style difficult to connect with.\n\nReview 10:\nThe exams were fair but sometimes covered topics quickly discussed in class."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 5,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 6:\nInstructions for projects could have been clearer."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 11:\nCommunication outside class could be inconsistent.\n\nReview 12:\nI learned useful skills but expected more detailed explanations."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 6,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 7:\nThe class was manageable but required consistent effort."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 13:\nThe course experience largely depends on how much effort the student puts in.\n\nReview 14:\nSome assignments felt repetitive."
   },
   {
     "source": "danny_mangra_reviews.txt",
     "professor": "Danny Mangra",
     "chunk_index": 7,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 8:\nProfessor Mangra was willing to answer questions when asked."
-  },
-  {
-    "source": "danny_mangra_reviews.txt",
-    "professor": "Danny Mangra",
-    "chunk_index": 8,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 9:\nSome students may find the teaching style difficult to connect with."
-  },
-  {
-    "source": "danny_mangra_reviews.txt",
-    "professor": "Danny Mangra",
-    "chunk_index": 9,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 10:\nThe exams were fair but sometimes covered topics quickly discussed in class."
-  },
-  {
-    "source": "danny_mangra_reviews.txt",
-    "professor": "Danny Mangra",
-    "chunk_index": 10,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 11:\nCommunication outside class could be inconsistent."
-  },
-  {
-    "source": "danny_mangra_reviews.txt",
-    "professor": "Danny Mangra",
-    "chunk_index": 11,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 12:\nI learned useful skills but expected more detailed explanations."
-  },
-  {
-    "source": "danny_mangra_reviews.txt",
-    "professor": "Danny Mangra",
-    "chunk_index": 12,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 13:\nThe course experience largely depends on how much effort the student puts in."
-  },
-  {
-    "source": "danny_mangra_reviews.txt",
-    "professor": "Danny Mangra",
-    "chunk_index": 13,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 14:\nSome assignments felt repetitive."
-  },
-  {
-    "source": "danny_mangra_reviews.txt",
-    "professor": "Danny Mangra",
-    "chunk_index": 14,
-    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\nReview 15:\nOverall a decent professor with both strengths and weaknesses."
+    "text": "Professor: Danny Mangra\nSource: danny_mangra_reviews.txt\n\nReview 15:\nOverall a decent professor with both strengths and weaknesses."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 0,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 1:\nProfessor Ragoub explains technical topics clearly and makes lectures interesting."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 1:\nProfessor Ragoub explains technical topics clearly and makes lectures interesting.\n\nReview 2:\nThe course is well organized and easy to follow."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 1,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 2:\nThe course is well organized and easy to follow."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 3:\nAssignments are meaningful and directly connected to class material.\n\nReview 4:\nOne of the best professors I have taken at QCC."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 2,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 3:\nAssignments are meaningful and directly connected to class material."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 5:\nProfessor Ragoub balances theory and practical applications very well.\n\nReview 6:\nQuestions are always welcomed during class."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 3,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 4:\nOne of the best professors I have taken at QCC."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 7:\nThe workload is reasonable and manageable.\n\nReview 8:\nHe creates a positive learning environment."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 4,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 5:\nProfessor Ragoub balances theory and practical applications very well."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 9:\nExams are fair and reflect lecture content.\n\nReview 10:\nStudents who attend class regularly should have no surprises on tests."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 5,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 6:\nQuestions are always welcomed during class."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 11:\nThe projects were useful and educational.\n\nReview 12:\nOffice hours were helpful when I needed extra assistance."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 6,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 7:\nThe workload is reasonable and manageable."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 13:\nA few assignments required more explanation than was provided.\n\nReview 14:\nThe pace can occasionally feel fast near the end of the semester."
   },
   {
     "source": "ali_ragoub_reviews.txt",
     "professor": "Ali Ragoub",
     "chunk_index": 7,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 8:\nHe creates a positive learning environment."
-  },
-  {
-    "source": "ali_ragoub_reviews.txt",
-    "professor": "Ali Ragoub",
-    "chunk_index": 8,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 9:\nExams are fair and reflect lecture content."
-  },
-  {
-    "source": "ali_ragoub_reviews.txt",
-    "professor": "Ali Ragoub",
-    "chunk_index": 9,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 10:\nStudents who attend class regularly should have no surprises on tests."
-  },
-  {
-    "source": "ali_ragoub_reviews.txt",
-    "professor": "Ali Ragoub",
-    "chunk_index": 10,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 11:\nThe projects were useful and educational."
-  },
-  {
-    "source": "ali_ragoub_reviews.txt",
-    "professor": "Ali Ragoub",
-    "chunk_index": 11,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 12:\nOffice hours were helpful when I needed extra assistance."
-  },
-  {
-    "source": "ali_ragoub_reviews.txt",
-    "professor": "Ali Ragoub",
-    "chunk_index": 12,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 13:\nA few assignments required more explanation than was provided."
-  },
-  {
-    "source": "ali_ragoub_reviews.txt",
-    "professor": "Ali Ragoub",
-    "chunk_index": 13,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 14:\nThe pace can occasionally feel fast near the end of the semester."
-  },
-  {
-    "source": "ali_ragoub_reviews.txt",
-    "professor": "Ali Ragoub",
-    "chunk_index": 14,
-    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\nReview 15:\nOverall an excellent professor who genuinely cares about student success."
+    "text": "Professor: Ali Ragoub\nSource: ali_ragoub_reviews.txt\n\nReview 15:\nOverall an excellent professor who genuinely cares about student success."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 0,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 1:\nProfessor Epple is one of the most encouraging professors I have taken."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 1:\nProfessor Epple is one of the most encouraging professors I have taken.\n\nReview 2:\nThe class atmosphere is positive and supportive."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 1,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 2:\nThe class atmosphere is positive and supportive."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 3:\nAssignments are clearly explained and expectations are realistic.\n\nReview 4:\nShe provides helpful feedback and guidance on projects."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 2,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 3:\nAssignments are clearly explained and expectations are realistic."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 5:\nThe workload is manageable and well balanced.\n\nReview 6:\nLectures are engaging and easy to understand."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 3,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 4:\nShe provides helpful feedback and guidance on projects."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 7:\nProfessor Epple makes difficult concepts feel approachable.\n\nReview 8:\nStudents are encouraged to be creative and participate in discussions."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 4,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 5:\nThe workload is manageable and well balanced."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 9:\nThe course is organized and structured effectively.\n\nReview 10:\nQuestions are welcomed and answered respectfully."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 5,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 6:\nLectures are engaging and easy to understand."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 11:\nOne of the easiest professors to communicate with.\n\nReview 12:\nThe projects were enjoyable and relevant to the course objectives."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 6,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 7:\nProfessor Epple makes difficult concepts feel approachable."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 13:\nI learned a lot while still maintaining a reasonable workload.\n\nReview 14:\nI would strongly recommend this professor to other students."
   },
   {
     "source": "emily_epple_reviews.txt",
     "professor": "Emily Epple",
     "chunk_index": 7,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 8:\nStudents are encouraged to be creative and participate in discussions."
-  },
-  {
-    "source": "emily_epple_reviews.txt",
-    "professor": "Emily Epple",
-    "chunk_index": 8,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 9:\nThe course is organized and structured effectively."
-  },
-  {
-    "source": "emily_epple_reviews.txt",
-    "professor": "Emily Epple",
-    "chunk_index": 9,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 10:\nQuestions are welcomed and answered respectfully."
-  },
-  {
-    "source": "emily_epple_reviews.txt",
-    "professor": "Emily Epple",
-    "chunk_index": 10,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 11:\nOne of the easiest professors to communicate with."
-  },
-  {
-    "source": "emily_epple_reviews.txt",
-    "professor": "Emily Epple",
-    "chunk_index": 11,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 12:\nThe projects were enjoyable and relevant to the course objectives."
-  },
-  {
-    "source": "emily_epple_reviews.txt",
-    "professor": "Emily Epple",
-    "chunk_index": 12,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 13:\nI learned a lot while still maintaining a reasonable workload."
-  },
-  {
-    "source": "emily_epple_reviews.txt",
-    "professor": "Emily Epple",
-    "chunk_index": 13,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 14:\nI would strongly recommend this professor to other students."
-  },
-  {
-    "source": "emily_epple_reviews.txt",
-    "professor": "Emily Epple",
-    "chunk_index": 14,
-    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\nReview 15:\nThe course may feel slightly easy for students with prior experience, but it remains an excellent class overall."
+    "text": "Professor: Emily Epple\nSource: emily_epple_reviews.txt\n\nReview 15:\nThe course may feel slightly easy for students with prior experience, but it remains an excellent class overall."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 0,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 1:\nProfessor Wu is knowledgeable but the course can be demanding."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 1:\nProfessor Wu is knowledgeable but the course can be demanding.\n\nReview 2:\nSome lectures were very helpful while others felt difficult to follow."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 1,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 2:\nSome lectures were very helpful while others felt difficult to follow."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 3:\nThe workload is moderate to heavy depending on your background.\n\nReview 4:\nAssignments helped reinforce the material."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 2,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 3:\nThe workload is moderate to heavy depending on your background."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 5:\nExams were fair but required strong preparation.\n\nReview 6:\nThe professor expects students to be independent learners."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 3,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 4:\nAssignments helped reinforce the material."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 7:\nFeedback on assignments was useful.\n\nReview 8:\nThe class was challenging but manageable."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 4,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 5:\nExams were fair but required strong preparation."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 9:\nSometimes lecture explanations could have been clearer.\n\nReview 10:\nStudents who attend regularly tend to perform better."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 5,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 6:\nThe professor expects students to be independent learners."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 11:\nThe projects were practical and relevant.\n\nReview 12:\nCommunication outside class was sometimes slow."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 6,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 7:\nFeedback on assignments was useful."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 13:\nThe material is valuable but requires consistent effort.\n\nReview 14:\nI enjoyed some aspects of the course but found others frustrating."
   },
   {
     "source": "huixin_wu_reviews.txt",
     "professor": "Huixin Wu",
     "chunk_index": 7,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 8:\nThe class was challenging but manageable."
-  },
-  {
-    "source": "huixin_wu_reviews.txt",
-    "professor": "Huixin Wu",
-    "chunk_index": 8,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 9:\nSometimes lecture explanations could have been clearer."
-  },
-  {
-    "source": "huixin_wu_reviews.txt",
-    "professor": "Huixin Wu",
-    "chunk_index": 9,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 10:\nStudents who attend regularly tend to perform better."
-  },
-  {
-    "source": "huixin_wu_reviews.txt",
-    "professor": "Huixin Wu",
-    "chunk_index": 10,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 11:\nThe projects were practical and relevant."
-  },
-  {
-    "source": "huixin_wu_reviews.txt",
-    "professor": "Huixin Wu",
-    "chunk_index": 11,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 12:\nCommunication outside class was sometimes slow."
-  },
-  {
-    "source": "huixin_wu_reviews.txt",
-    "professor": "Huixin Wu",
-    "chunk_index": 12,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 13:\nThe material is valuable but requires consistent effort."
-  },
-  {
-    "source": "huixin_wu_reviews.txt",
-    "professor": "Huixin Wu",
-    "chunk_index": 13,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 14:\nI enjoyed some aspects of the course but found others frustrating."
-  },
-  {
-    "source": "huixin_wu_reviews.txt",
-    "professor": "Huixin Wu",
-    "chunk_index": 14,
-    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\nReview 15:\nOverall a decent professor with both strengths and weaknesses."
+    "text": "Professor: Huixin Wu\nSource: huixin_wu_reviews.txt\n\nReview 15:\nOverall a decent professor with both strengths and weaknesses."
   }
 ]

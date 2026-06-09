@@ -38,6 +38,42 @@ def chunk_by_reviews(document):
 
     review_parts = re.split(r"(Review\s+\d+\s*:?)", text, flags=re.IGNORECASE)
 
+    reviews = []
+
+    if len(review_parts) > 1:
+        for i in range(1, len(review_parts), 2):
+            review_label = review_parts[i].strip()
+            review_text = review_parts[i + 1].strip() if i + 1 < len(review_parts) else ""
+
+            if review_text:
+                reviews.append(f"{review_label}\n{review_text}")
+
+    chunks = []
+
+    for i in range(0, len(reviews), 2):
+        grouped_reviews = reviews[i:i + 2]
+
+        chunk_text = (
+            f"Professor: {professor_name}\n"
+            f"Source: {source}\n\n"
+            + "\n\n".join(grouped_reviews)
+        )
+
+        chunks.append({
+            "source": source,
+            "professor": professor_name,
+            "chunk_index": len(chunks),
+            "text": chunk_text
+        })
+
+    return chunks
+    source = document["source"]
+    text = document["text"]
+
+    professor_name = source.replace("_reviews.txt", "").replace("_", " ").title()
+
+    review_parts = re.split(r"(Review\s+\d+\s*:?)", text, flags=re.IGNORECASE)
+
     chunks = []
 
     if len(review_parts) > 1:

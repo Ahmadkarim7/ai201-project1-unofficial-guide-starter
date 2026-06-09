@@ -39,6 +39,8 @@ Because the reviews are already separated by “Review 1,” “Review 2,” etc
 
 I do not need a large overlap because each review is already self-contained. If needed, I may use a very small overlap by repeating professor metadata in every chunk so the system always knows which professor the review belongs to.
 
+After testing retrieval in Milestone 4, I found that one-review chunks were sometimes too short and produced high distance scores. I updated the chunking strategy to group two reviews per chunk so each chunk has more semantic context while still staying focused on one professor.
+
 ## Retrieval Approach
 
 I will use the all-MiniLM-L6-v2 embedding model from sentence-transformers because it runs locally, is free, and is good enough for a small professor-review dataset. I will store embeddings in ChromaDB.
@@ -77,6 +79,9 @@ Another challenge is retrieval accuracy. Because reviews are short, the system m
 
 A third challenge is source attribution. Every generated answer must clearly identify which professor-review documents were used to produce the answer.
 
+During Milestone 4 testing, some retrieval distances were high because the review text used general words like "approachable," "helpful," or "challenging" instead of directly matching question terms like "beginner," "feedback," or "difficult." This may cause semantic retrieval to return partially relevant chunks.
+
+During retrieval testing, the system returned relevant chunks, but the distance scores were higher than ideal. This likely happened because the reviews are short and sometimes use broad words like "helpful," "approachable," and "challenging." I adjusted the test queries to better match the language used in the review documents, which improved relevance even though the scores remained somewhat high.
 ## AI Tool Plan
 
 I will use ChatGPT/Claud to help implement specific parts of the RAG pipeline.
